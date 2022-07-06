@@ -1,0 +1,5 @@
+python 3.9.*
+arrow-cpp * *cpu*
+pyarrow * *cpu*
+tensorflow 2.8.* *cpu*
+xgboost * *cpu*
